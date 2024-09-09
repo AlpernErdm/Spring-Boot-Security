@@ -2,7 +2,7 @@
 ## This repository contains a Spring Boot Security project focused on implementing authentication and authorization mechanisms using Spring Security. 
 The project demonstrates how to secure RESTful APIs, manage user roles, and protect sensitive endpoints.
 
-# Features
+## Features
 ```
 User Authentication: Implements user login functionality with Spring Security.
 Role-Based Access Control (RBAC): Defines user roles and restricts access to specific endpoints based on roles.
@@ -11,7 +11,7 @@ Secure REST API: Protects REST API endpoints from unauthorized access.
 Password Hashing: Utilizes BCrypt for secure password storage.
 Spring Security Configuration: Customizes Spring Security configuration to manage security rules and filter chains.
 ```
-# Technologies Used
+## Technologies Used
 ```
 Java: Core language for the project
 Spring Boot: Framework for rapid application development
